@@ -1,4 +1,0 @@
-regular_ops 7 0.0522125
-nested_ops 8 0.039638
----
-nested_ops
