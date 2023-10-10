@@ -1,0 +1,39 @@
+Start testing: Oct 10 23:30 Romance Daylight Time
+----------------------------------------------------------
+2/2 Testing: nested_ops
+2/2 Test: nested_ops
+Command: "C:/Users/marce/Documents/UNIVERSITAT/IOS/Calculator/build/test/Debug/nested_ops.exe"
+Directory: C:/Users/marce/Documents/UNIVERSITAT/IOS/Calculator/build/test
+"nested_ops" start time: Oct 10 23:30 Romance Daylight Time
+Output:
+----------------------------------------------------------
+Randomness seeded to: 2635206802
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+nested_ops.exe is a Catch2 v3.2.1 host application.
+Run with -? for options
+
+-------------------------------------------------------------------------------
+Regular operations
+-------------------------------------------------------------------------------
+C:\Users\marce\Documents\UNIVERSITAT\IOS\Calculator\test\nested_ops.cpp(5)
+...............................................................................
+
+C:\Users\marce\Documents\UNIVERSITAT\IOS\Calculator\test\nested_ops.cpp(41): FAILED:
+  REQUIRE( std::stod(vc.get_buffer()) == 2.0 )
+with expansion:
+  543.0000002 == 2.0
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 9 | 8 passed | 1 failed
+
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Failed.
+"nested_ops" end time: Oct 10 23:30 Romance Daylight Time
+"nested_ops" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 10 23:30 Romance Daylight Time

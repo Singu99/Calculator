@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-MSBuild"
+	BuildStamp="20231010-1846-Experimental"
+	Name="Singu-Laptop"
+	Generator="ctest-3.26.4-msvc4"
+	CompilerName="C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.37.32822/bin/Hostx64/x86/cl.exe"
+	CompilerVersion="19.37.32822.0"
+	OSName="Windows"
+	Hostname="Singu-Laptop"
+	OSRelease=" Professional"
+	OSVersion=" (Build 22621)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="5"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="18601"
+	TotalPhysicalMemory="16169"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2592"
+	>
+	<Testing>
+		<StartDateTime>Oct 10 23:30 Romance Daylight Time</StartDateTime>
+		<StartTestTime>1696973435</StartTestTime>
+		<TestList>
+			<Test>./test/nested_ops</Test>
+		</TestList>
+		<Test Status="failed">
+			<Name>nested_ops</Name>
+			<Path>./test</Path>
+			<FullName>./test/nested_ops</FullName>
+			<FullCommandLine>C:\Users\marce\Documents\UNIVERSITAT\IOS\Calculator\build\test\Debug\nested_ops.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Failed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0262095</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\marce\Documents\UNIVERSITAT\IOS\Calculator\build\test\Debug\nested_ops.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJytkk1qwzAQhfdzilnGiwjH+SEVhBISFwylpU7TlSCo0jgxOJbwyGkWpWevnXaRA/gDbWZGvDdPynVt3bkmZmQiSxaDk5gspvMkXizjBOBnWKDTCmQPzrOgK2HJqHGjgzkleJmKREzw5Dig9r4qjQ6lqwXkbY1fZTjh+BEL16DzfZ0BxsMCOR3bSvcC1Og/jaElNlLtmRpWZ90YUltn2jPVgdX+JftI8132vn5X2etObXRlOjPBNSp0mam74Iz3o3kEYlhgMG+zSSTxaZ09p1sJiHn6ts/ydIQcrJQcnB1djDhSOHy2RUHNKIpwtcJExBjB7Z3p6nXNXf799flsKuIbyf8YwGpYoN8CjWZiiRP87k6hy4osaO4Cuf0EiQ9dY4m+L9n7GfgF9a3zkg==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Oct 10 23:30 Romance Daylight Time</EndDateTime>
+		<EndTestTime>1696973435</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

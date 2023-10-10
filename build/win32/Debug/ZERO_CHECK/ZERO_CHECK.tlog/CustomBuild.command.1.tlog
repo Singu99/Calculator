@@ -1,0 +1,10 @@
+^C:\USERS\MARCE\DOCUMENTS\UNIVERSITAT\IOS\CALCULATOR\BUILD\CMAKEFILES\6D94E53F321BEC583A14B8C0AFDE9D55\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/marce/Documents/UNIVERSITAT/IOS/Calculator -BC:/Users/marce/Documents/UNIVERSITAT/IOS/Calculator/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/marce/Documents/UNIVERSITAT/IOS/Calculator/build/MyProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

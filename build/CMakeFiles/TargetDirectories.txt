@@ -1,0 +1,16 @@
+C:/Users/marce/Documents/UNIVERSITAT/IOS/Calculator/build/CMakeFiles/Experimental.dir
+C:/Users/marce/Documents/UNIVERSITAT/IOS/Calculator/build/CMakeFiles/Nightly.dir
+C:/Users/marce/Documents/UNIVERSITAT/IOS/Calculator/build/CMakeFiles/Continuous.dir
+C:/Users/marce/Documents/UNIVERSITAT/IOS/Calculator/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/marce/Documents/UNIVERSITAT/IOS/Calculator/build/CMakeFiles/main.dir
+C:/Users/marce/Documents/UNIVERSITAT/IOS/Calculator/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/marce/Documents/UNIVERSITAT/IOS/Calculator/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/marce/Documents/UNIVERSITAT/IOS/Calculator/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/marce/Documents/UNIVERSITAT/IOS/Calculator/build/_deps/catch2-build/CMakeFiles/RUN_TESTS.dir
+C:/Users/marce/Documents/UNIVERSITAT/IOS/Calculator/build/_deps/catch2-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/marce/Documents/UNIVERSITAT/IOS/Calculator/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir
+C:/Users/marce/Documents/UNIVERSITAT/IOS/Calculator/build/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir
+C:/Users/marce/Documents/UNIVERSITAT/IOS/Calculator/build/_deps/catch2-build/src/CMakeFiles/RUN_TESTS.dir
+C:/Users/marce/Documents/UNIVERSITAT/IOS/Calculator/build/test/CMakeFiles/regular_ops.dir
+C:/Users/marce/Documents/UNIVERSITAT/IOS/Calculator/build/test/CMakeFiles/nested_ops.dir
+C:/Users/marce/Documents/UNIVERSITAT/IOS/Calculator/build/test/CMakeFiles/RUN_TESTS.dir

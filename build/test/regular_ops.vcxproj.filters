@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\marce\Documents\UNIVERSITAT\IOS\Calculator\test\regular_ops.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\marce\Documents\UNIVERSITAT\IOS\Calculator\src\view_controller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\marce\Documents\UNIVERSITAT\IOS\Calculator\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3A12C168-4347-3948-B036-5795510D8ED8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
